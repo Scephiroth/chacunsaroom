@@ -1,0 +1,16 @@
+{
+  "name": "be.christophefanchamps.center",
+  "version": "0.0.1",
+  "displayName": "Room de Christophe",
+  "description": "Room de Christophe",
+  "unity": "2022.3",
+  "unityRelease": "18f1",
+  "documentationUrl": "https://yourcompany.com/yourpackage/documentation",
+  "changelogUrl": "https://yourcompany.com/yourpackage/changelog",
+  "licensesUrl": "https://yourcompany.com/yourpackage/licenses",
+  "author": {
+    "name": "ChristopheFanchamps",
+    "email": "yourname@yourcompany.com",
+    "url": "https://yourcompany.com/"
+  }
+}
